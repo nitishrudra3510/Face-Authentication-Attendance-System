@@ -1,0 +1,43 @@
+2026-01-29 00:05:05,013 [INFO] Processing user 'nitish' with label 0
+2026-01-29 00:05:05,531 [INFO] Loaded 50 face images for training
+2026-01-29 00:05:05,896 [INFO] Model trained and saved to models\face_recognizer.xml
+2026-01-29 00:05:05,896 [INFO] Labels mapping saved to models\labels.npy
+2026-01-29 00:06:03,071 [INFO] Processing user 'nitish' with label 0
+2026-01-29 00:06:03,576 [INFO] Loaded 50 face images for training
+2026-01-29 00:06:03,866 [INFO] Model trained and saved to models\face_recognizer.xml
+2026-01-29 00:06:03,866 [INFO] Labels mapping saved to models\labels.npy
+2026-01-29 00:27:27,701 [INFO] Processing user '12209647' with label 0
+2026-01-29 00:27:28,197 [INFO] Processing user 'nitish' with label 1
+2026-01-29 00:27:28,213 [INFO] Loaded 100 face images for training
+2026-01-29 00:27:28,764 [INFO] Model trained and saved to models\face_recognizer.xml
+2026-01-29 00:27:28,764 [INFO] Labels mapping saved to models\labels.npy
+2026-01-29 00:28:22,085 [INFO] Processing user '12209647' with label 0
+2026-01-29 00:28:22,102 [INFO] Processing user 'nitish' with label 1
+2026-01-29 00:28:22,609 [INFO] Loaded 100 face images for training
+2026-01-29 00:28:23,140 [INFO] Model trained and saved to models\face_recognizer.xml
+2026-01-29 00:28:23,140 [INFO] Labels mapping saved to models\labels.npy
+2026-01-29 02:48:01,839 [INFO] Processing user '12209647' with label 0
+2026-01-29 02:48:01,865 [INFO] Processing user 'NAME' with label 1
+2026-01-29 02:48:01,865 [INFO] Processing user 'nitish' with label 2
+2026-01-29 02:48:01,885 [INFO] Loaded 100 face images for training
+2026-01-29 02:48:02,201 [INFO] Model trained and saved to models/face_recognizer.xml
+2026-01-29 02:48:02,201 [INFO] Labels mapping saved to models/labels.npy
+2026-01-29 02:48:13,280 [INFO] Processing user '12209647' with label 0
+2026-01-29 02:48:13,289 [INFO] Processing user 'NAME' with label 1
+2026-01-29 02:48:13,289 [INFO] Processing user 'nitish' with label 2
+2026-01-29 02:48:13,297 [INFO] Loaded 100 face images for training
+2026-01-29 02:48:13,596 [INFO] Model trained and saved to models/face_recognizer.xml
+2026-01-29 02:48:13,596 [INFO] Labels mapping saved to models/labels.npy
+2026-01-29 02:51:07,082 [INFO] Processing user '12209647' with label 0
+2026-01-29 02:51:07,105 [INFO] Processing user 'NAME' with label 1
+2026-01-29 02:51:07,105 [INFO] Processing user 'nitish' with label 2
+2026-01-29 02:51:07,122 [INFO] Loaded 100 face images for training
+2026-01-29 02:51:07,462 [INFO] Model trained and saved to models/face_recognizer.xml
+2026-01-29 02:51:07,462 [INFO] Labels mapping saved to models/labels.npy
+2026-01-29 02:52:35,497 [INFO] Processing user '12209647' with label 0
+2026-01-29 02:52:35,520 [INFO] Processing user 'AutoUser' with label 1
+2026-01-29 02:52:35,523 [INFO] Processing user 'NAME' with label 2
+2026-01-29 02:52:35,523 [INFO] Processing user 'nitish' with label 3
+2026-01-29 02:52:35,544 [INFO] Loaded 110 face images for training
+2026-01-29 02:52:35,961 [INFO] Model trained and saved to models/face_recognizer.xml
+2026-01-29 02:52:35,961 [INFO] Labels mapping saved to models/labels.npy
